@@ -9,7 +9,7 @@ setup(
     url="https://github.com/utkarshbelkhede/shortml",
 
     name = "shortml",
-    version = "0.0.1", # major.minor.patch
+    version = "0.0.2", # major.minor.patch
     description = "Helps you to write ML Code.",
     long_description = long_description,
     long_description_content_type="text/markdown",
