@@ -31,6 +31,7 @@ def confusion_matrix(y_test, y_pred):
     plt.ylabel("Predicted")
     plt.show()
 
+
 def report(y_test, y_pred):
     accuracy(y_test, y_pred)
     roc_auc_score(y_test, y_pred)
